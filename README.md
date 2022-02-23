@@ -1,0 +1,2 @@
+This file utilizes a breakdown of a parabolic equation to accurately determine 
+the temperature of the sensor based upon the reference voltage used, the ADC resolution bit depending on the board, and the mV given by the temperature sensor.

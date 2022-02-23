@@ -1,0 +1,12 @@
+#############
+# Functions #
+#############
+LMT87        	KEYWORD2	
+getCDegree 		KEYWORD2
+getFDegree		KEYWORD2
+
+#############
+#Constants #
+#############
+ADCres			KEYWORD1
+voltageRef		KEYWORD1
